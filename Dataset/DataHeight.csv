@@ -1,4 +1,4 @@
-Timestamp,Gender,Please enter your Height ( in CM) ,Shoe Size (in Cm) (Please convert to CM before entering),Please Enter Weight (in KG)
+Gender,Height,Shoe Size,Weight
 Female,168,25.1,74,
 Female,167.64,24,64,
 Female,154.94,21.6,48,
