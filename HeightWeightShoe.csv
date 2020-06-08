@@ -1,4 +1,4 @@
-Gender,Please enter your Height ( in CM) ,Shoe Size (in Cm) (Please convert to CM before entering),Please Enter Weight (in KG)
+Gender,Height,ShoeSize,Weight
 Female,168,25.1,74
 Male,178,26,69
 Male,181,27.1,86
